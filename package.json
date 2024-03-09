@@ -1,0 +1,32 @@
+{
+  "name": "handphone-infinix",
+  "version": "1.0.0",
+  "description": "Handphone Dengan Merk Infinix 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "infinixphone"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/handphone-infinix.git"
+  },
+  "keywords": [
+    "Handphone",
+    "Infinix",
+    "Keluaran",
+    "2024"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/handphone-infinix/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/handphone-infinix#readme",
+  "dependencies": {
+    "@types/node": "^20.11.25",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
